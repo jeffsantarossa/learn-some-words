@@ -1,0 +1,122 @@
+{
+	"word":	{
+		"english":"yesterday",
+		"german":"gestern",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Heute ist es nicht so warm wie gestern.",
+		"sentence-english":"Today is not as warm as yesterday."
+	},
+	"word":	{
+		"english":"today",
+		"german":"heute",
+		"pronounce":"hoy tuh",
+		"gender":"",
+		"sentence-german":"Heute ist es nicht so warm wie gestern.",
+		"sentence-english":"Today is not as warm as yesterday."
+	},
+	"word":	{
+		"english":"tomorrow",
+		"german":"morgen",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Bis morgen werde ich alles gelernt haben.",
+		"sentence-english":"By tomorrow I will have learned everything."
+	},
+	"word":	{
+		"english":"other",
+		"german":"andere",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Das andere Reich",
+		"sentence-english":"The other realm."
+	},
+	"word":	{
+		"english":"better",
+		"german":"besser",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Besser spät als nie.",
+		"sentence-english":"Better late than never."
+	},
+	"word":	{
+		"english":"comfortable",
+		"german":"bequem",
+		"pronounce":"beh kweam",
+		"gender":"",
+		"sentence-german":"Machen Sie es sich bequem.",
+		"sentence-english":"Make yourself comfortable."
+	},
+	"word":	{
+		"english":"cheap",
+		"german":"billig",
+		"pronounce":"billich",
+		"gender":"",
+		"sentence-german":"eine billige Kopie.",
+		"sentence-english":"a cheap copy."
+	},
+	"word":	{
+		"english":"need",
+		"german":"brauchen",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Welche Länge brauchen Sie?",
+		"sentence-english":"What length do you need?"
+	},
+	"word":	{
+		"english":"unfortunately",
+		"german":"leider",
+		"pronounce":"lie-der",
+		"gender":"",
+		"sentence-german":"Ich habe es leider nicht kleiner.",
+		"sentence-english":"I have unfortunately nothing smaller."
+	},
+	"word":	{
+		"english":"important",
+		"german":"wichtig",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Er ist mir wichtig.",
+		"sentence-english":"He is important to me."
+	},
+	"word":	{
+		"english":"repeat",
+		"german":"wiederholen",
+		"pronounce":"",
+		"gender":"",
+		"sentence-german":"Würden Sie das bitte wiederholen?",
+		"sentence-english":"Could you repeat that please?"
+	},
+	"word":	{
+		"english":"shirt",
+		"german":"Hemd",
+		"pronounce":"",
+		"gender":"n",
+		"sentence-german":"",
+		"sentence-english":""
+	},
+	"word":	{
+		"english":"pants",
+		"german":"Hose",
+		"pronounce":"",
+		"gender":"f",
+		"sentence-german":"",
+		"sentence-english":""
+	},
+	"word":	{
+		"english":"dress",
+		"german":"Kleid",
+		"pronounce":"",
+		"gender":"n",
+		"sentence-german":"",
+		"sentence-english":""
+	},
+	"word":	{
+		"english":"suit",
+		"german":"Anzug",
+		"pronounce":"",
+		"gender":"m",
+		"sentence-german":"",
+		"sentence-english":""
+	}
+}
